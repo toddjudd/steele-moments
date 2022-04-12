@@ -23,7 +23,7 @@ export const Landing = () => {
         good Movie Night. Want to learn more about us?
       </p>
       <div className='grid grid-cols-2 grid-rows-[minmax(0,_1fr)_auto_minmax(0,_1fr)] items-center justify-center'>
-        <Brushstroke className='flex justify-center items-center'></Brushstroke>
+        <Brushstroke></Brushstroke>
         <div className='border-deep-sea-blue border-8 p-2 row-span-3 col-start-2'>
           <img
             src='https://via.placeholder.com/3000x3000.png/658589/f5f3ef?text=Were+the+Steeles'
